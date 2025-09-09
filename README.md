@@ -1,7 +1,7 @@
 # 🎓 Sistema de Login UTEQ
 ### Universidad Técnica Estatal de Quevedo - Ecuador
 
-<img src="captura_evidencia_Proyecto.PNG" alt="Evidencia del Proyecto" width="800" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">"
+![Evidencia del Proyecto](captura_evidencia_Proyecto.PNG)
 
 ## 📋 Descripción del Proyecto
 
