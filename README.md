@@ -1,7 +1,7 @@
 # 🎓 Sistema de Login UTEQ
 ### Universidad Técnica Estatal de Quevedo - Ecuador
 
-![Evidencia del Proyecto](captura_evidencia_Proyecto.PNG)
+![Evidencia del Proyecto](captura_evidencia_Proyecto.png)
 
 ## 📋 Descripción del Proyecto
 
@@ -43,7 +43,7 @@ Sistema de autenticación web desarrollado específicamente para la **Universida
 ```
 carpeta_vsc/
 ├── 📄 login.html                    # Página principal del sistema de login
-├── 🖼️ captura_evidencia_Proyecto.PNG # Evidencia visual del proyecto
+├── 🖼️ captura_evidencia_Proyecto.png # Evidencia visual del proyecto
 └── 📖 README.md                    # Documentación técnica del proyecto
 ```
 
